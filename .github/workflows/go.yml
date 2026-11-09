@@ -34,4 +34,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: MuhammadRazi/Praktikum-popl:latest
+        tags: muhammadRazi/Praktikum-popl:latest
